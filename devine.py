@@ -6,7 +6,7 @@ On crée une fenêtre simple qui demande à l'utilisateur de deviner le nombre s
 Avec une possibilité de guide en indiquant si le nombre choisi est plus grand 
 ou plus petit que le nombre secret
 
-source: https://pythonfaqfr.readthedocs.io/en/latest/prog_even_tkinter.html#
+source d'inspiration: https://pythonfaqfr.readthedocs.io/en/latest/prog_even_tkinter.html#
 
 
 """
@@ -103,7 +103,7 @@ bouton_rejouer = tk.Button(app, text="Rejouer")
 bouton_rejouer.grid(row=3, column=1, pady=10, padx=10)
 
 
-#Création d'un Quitter
+#Création d'un bouton Quitter
 bouton_quitter = tk.Button(app, text="Quitter", command=Quitter)
 bouton_quitter.grid(row=3, column=2, pady=15, padx=15)
 
