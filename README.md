@@ -148,12 +148,13 @@ Extrait du code source
 
 ```python
 
+"""
+Prémière version du jeu Devine.
 
-#Prémière version du jeu Devine.
-
-#On crée une fenêtre simple qui demande à l'utilisateur de deviner le nombre secret.
-#Avec une possibilité de guide en indiquant si le nombre choisi est plus grand 
-#ou plus petit que le nombre secret.
+On crée une fenêtre simple qui demande à l'utilisateur de deviner le nombre secret.
+Avec une possibilité de guide en indiquant si le nombre choisi est plus grand 
+ou plus petit que le nombre secret.
+"""
 
 
 # coding: utf-8
