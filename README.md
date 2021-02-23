@@ -5,7 +5,7 @@ Programmation événementielle avec tkinter, Python
 [![Project Status](http://opensource.box.com/badges/maintenance.svg)](http://opensource.box.com/badges)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/noutcha/Perl_API_Twitter.svg)](http://isitmaintained.com/project/noutcha/Perl_API_Twitter "Average time to resolve an issue")
 [![Percentage of open issues](http://isitmaintained.com/badge/open/noutcha/Perl_API_Twitter.svg)](http://isitmaintained.com/project/noutcha/Perl_API_Twitter "Percentage of issues still open")
-[![GPL License](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
+[![MIT License](https://badges.frapsoft.com/os/mit/mit.png?)](https://opensource.org/licenses/MIT)
 
 
 Déscription
